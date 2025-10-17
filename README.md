@@ -1,5 +1,9 @@
 ## 📊 Analiz Dosyam
 
-Google Colab üzerinde açmak için tıkla:
+Tam analizi görmek için tıkla:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fU9V7TYz-VKKKywYAkRcK0ysq5oVxmb4)
+[📘 Analizi Görüntüle (nbviewer)](https://nbviewer.org/github/denizgcs/spotify_dataSet_veri_analizi/blob/main/analiz.ipynb)
+
+veya Google Colab üzerinde çalıştırmak için:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/denizgcs/spotify_dataSet_veri_analizi/blob/main/analiz.ipynb)
